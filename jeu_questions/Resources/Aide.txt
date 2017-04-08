@@ -1,0 +1,38 @@
+***********************************************Aide****************************************************
+
+
+1.Affichage : Le programme s'affiche correctement avec une forte résolution de l'ecran 
+supérieure à 1280 * 768
+
+2. Chargement des questions du quizz 
+Cliquez sur le bouton "Charger fichier quizz" et séléctionnez votre document texte.
+Redigez vos questions du quizz  dans un fichier document texte (.txt) de cette sorte :
+Question 1
+reponse1
+reponse2
+reponse3
+reponse4
+Question 2
+reponse1
+reponse2
+reponse3
+reponse4
+
+3. Compte à rebours : 
+Cocher un des quatre premiers boutons radio en haut pour choisir le temps du compte à rebours :
+dans l'ordre 10 secondes, 15 secondes, 60 secondes, 90 secondes
+le dernier sert à cacher le compteur (utile dans le quatre à la suite)
+les 3 boutons du compte à rebours : 
+D : demarrer le compte à rebours	Alt + D, ou D (si vous n'etes pas dans une zone de texte)
+A : Arrêter (pause)			Alt + A, ou A
+R : Réinitialiser le compte à rebours	Alt + R, ou R
+
+4. Quizz : cliquez sur une reponse pour la selectionner puis un double-clic pour faire savoir que 
+c'est la bonne reponse
+
+5. Pour toute réctification du score double-cliquez sur l'étiquette du score à modifier sur le panneau principale
+
+6. Quitter : Appuyez sur Ctrl + W pour fermer une fenêtre !
+
+	Version 0.6
+	par Housni Issouffa
